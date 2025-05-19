@@ -42,6 +42,3 @@ st.markdown("---")
 st.markdown(
     "Built with Streamlit. The translation logic and character map are imported from your `main.py` file, assuming a US Mac ANSI keyboard layout.")
 
-# To provide the user with a reference for their example:
-st.sidebar.header("Your Example:")
-st.sidebar.write("Input: `´¨ ∫å†å`")
